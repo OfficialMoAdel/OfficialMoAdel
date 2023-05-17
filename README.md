@@ -1,4 +1,4 @@
-### Hi 👋 I'm Mahmmed Adel
+### Hi 👋 I'm Mohamed Adel
 
  
 <!--
