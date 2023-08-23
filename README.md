@@ -30,8 +30,8 @@
    <img align="center" alt="Rafa-photoshop" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg">
  <img align="center" alt="Rafa-premierepro" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg">
   <img align="center" alt="Rafa-aftereffects" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg">
-
-
-  <img align="center" alt="Rafa-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
+<img align="center" alt="Rafa-VMWare" height="30" width="40" src="https://github.com/OfficialMoAdel/OfficialMoAdel/assets/61437026/d64f9e7e-5f69-4ea3-8fb6-3d3b55e900cd">
+<img align="center" alt="Rafa-Redhat" height="30" width="40" src="https://github.com/OfficialMoAdel/OfficialMoAdel/assets/61437026/428831fd-26ca-4623-8226-4eb086476694">
+ <img align="center" alt="Rafa-aws" height="30" width="40" src="https://github.com/OfficialMoAdel/OfficialMoAdel/assets/61437026/e56c8d9d-20f6-4e4f-a23f-8acbd15951fb">
   
 </div>
