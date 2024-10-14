@@ -1,5 +1,5 @@
 ### Hi 👋 I'm Mohamed Adel
-
+Engineering graduate with expertise in cloud computing, optical networks, and digital marketing. Skilled in Azure, VMware, and web technologies. Passionate about applying technical knowledge to real-world challenges. Eager to leverage my diverse skill set and continuous learning mindset in a dynamic IT environment.
  
 <!--
 **OfficialMoAdel/OfficialMoAdel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
