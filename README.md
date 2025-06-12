@@ -26,6 +26,8 @@ deliver innovative technical solutions.
   <img align="center" alt="git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
  <img align="center" alt="ansible" height="30" width="40" src="https://github.com/homarr-labs/dashboard-icons/blob/main/svg/github-light.svg">
  <img align="center" alt="ansible" height="30" width="40" src="https://github.com/homarr-labs/dashboard-icons/blob/main/svg/ansible-light.svg">
+  <img align="center" alt="ansible" height="30" width="40" src="https://github.com/homarr-labs/dashboard-icons/blob/main/svg/docker.svg">
+
  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg">
  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">
 
