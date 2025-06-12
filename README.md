@@ -22,7 +22,8 @@ Engineering graduate with expertise in cloud computing, optical networks, and di
   <img align="center" alt="git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
  <img align="center" alt="ansible" height="30" width="40" src="https://github.com/homarr-labs/dashboard-icons/blob/main/svg/github-light.svg">
  <img align="center" alt="ansible" height="30" width="40" src="https://github.com/homarr-labs/dashboard-icons/blob/main/svg/ansible-light.svg">
- ![GitHub Actions](https://github.com/user-attachments/assets/9d3f9084-5e45-4f74-b5bb-acde2e28aa06)
+ <img align="center" alt="ansible" height="30" width="40" src="https://github.com/homarr-labs/dashboard-icons/blob/main/svg/docker.svg">
+
 
  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg">
  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">
