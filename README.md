@@ -20,6 +20,10 @@ Engineering graduate with expertise in cloud computing, optical networks, and di
  <img align="center" alt="Rafa-VMWare" height="30" width="40" src="https://github.com/OfficialMoAdel/RapidRide-app/assets/61437026/fe299a9f-7df9-4dd7-92e3-dce5282cf12e">
  <img align="center" alt="Rafa-aws" height="30" width="40" src="https://github.com/OfficialMoAdel/OfficialMoAdel/assets/61437026/e56c8d9d-20f6-4e4f-a23f-8acbd15951fb">
   <img align="center" alt="git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+ <img align="center" alt="ansible" height="30" width="40" src="https://github.com/homarr-labs/dashboard-icons/blob/main/svg/github.svg">
+ <img align="center" alt="ansible" height="30" width="40" src="https://github.com/homarr-labs/dashboard-icons/blob/main/svg/ansible.svg">
+ 
+ 
  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg">
  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">
 
