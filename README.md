@@ -1,5 +1,9 @@
-![icons8-ansible](https://github.com/user-attachments/assets/18ee72b9-5086-4c5f-bf1d-39cd79425601)### Hi 👋 I'm Mohamed Adel
-Engineering graduate with expertise in cloud computing, optical networks, and digital marketing. Skilled in Azure, VMware, and web technologies. Passionate about applying technical knowledge to real-world challenges. Eager to leverage my diverse skill set and continuous learning mindset in a dynamic IT environment.
+### Hi 👋 I'm Mohamed Adel
+Engineering graduate with. I know cloud computing and virtualisation. I’m good with Linux Admin II, 
+Docker, Git, and GitHub. I’ve set up cloud services on VMware vSphere and Microsoft Azure. I 
+also have web design skills. Combining technical expertise in containerization, monitoring 
+systems, and digital marketing. Seeks to leverage cloud engineering skills and experience to 
+deliver innovative technical solutions.
  
 <!--
 **OfficialMoAdel/OfficialMoAdel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -22,18 +26,14 @@ Engineering graduate with expertise in cloud computing, optical networks, and di
   <img align="center" alt="git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
  <img align="center" alt="ansible" height="30" width="40" src="https://github.com/homarr-labs/dashboard-icons/blob/main/svg/github-light.svg">
  <img align="center" alt="ansible" height="30" width="40" src="https://github.com/homarr-labs/dashboard-icons/blob/main/svg/ansible-light.svg">
- <img align="center" alt="ansible" height="30" width="40" src="https://github.com/homarr-labs/dashboard-icons/blob/main/svg/docker.svg">
-
+  <img align="center" alt="ansible" height="30" width="40" src="https://github.com/homarr-labs/dashboard-icons/blob/main/svg/docker.svg">
 
  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg">
  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">
 
-          
-  
  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="dotnetcore" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg">
  <img align="center" alt="dotnetcore" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg">
-
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 
